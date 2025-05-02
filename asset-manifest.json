@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shipping-rate-comparison-tool/static/css/main.bedb3141.css",
+    "main.js": "/shipping-rate-comparison-tool/static/js/main.d682ca87.js",
+    "static/js/453.2219ad74.chunk.js": "/shipping-rate-comparison-tool/static/js/453.2219ad74.chunk.js",
+    "index.html": "/shipping-rate-comparison-tool/index.html",
+    "main.bedb3141.css.map": "/shipping-rate-comparison-tool/static/css/main.bedb3141.css.map",
+    "main.d682ca87.js.map": "/shipping-rate-comparison-tool/static/js/main.d682ca87.js.map",
+    "453.2219ad74.chunk.js.map": "/shipping-rate-comparison-tool/static/js/453.2219ad74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bedb3141.css",
+    "static/js/main.d682ca87.js"
+  ]
+}
